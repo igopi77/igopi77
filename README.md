@@ -51,10 +51,6 @@ A life-long learner, open-source contributor, and hackathon enthusiast who loves
 > Interactive student-admin quiz system featuring MCQs, coding problems, live compiler & performance metrics.  
 **Stack:** Flutter · Node.js · MongoDB · Code Execution APIs
 
-### 🌐 BRSR & POSB Digital Solutions
-> Data-driven dashboards for sustainable development goals and POSB scheme optimization.  
-**Focus:** Environmental tracking · Demographic insights · Postal tech integration
-
 ---
 
 ## 🏆 Achievements
